@@ -16,6 +16,8 @@ other HR-related metrics.
 
 ## 📷 Dashboard Preview
 <img width="1397" height="788" alt="image" src="https://github.com/user-attachments/assets/fae8bcc9-e694-4b7e-b4ef-1a812fbf2ad2" />
+<img width="1390" height="788" alt="image" src="https://github.com/user-attachments/assets/6cb05d33-56d9-4a56-9fad-299721ed2858" />
+
 
 
 ## 🔍 Key Insights
